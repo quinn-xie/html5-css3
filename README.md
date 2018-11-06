@@ -1,7 +1,7 @@
 # QUINN-RESUME
 
 <p align="center">
-    <img width="200" src="https://github.com/quinn-xie/quinn-resume/blob/master/src/assets/img/css3effect.png">
+    <img width="200" src="https://github.com/quinn-xie/html5-css3/blob/master/src/assets/img/css3effect.png">
 </p>
 
 <p align="center">
@@ -66,6 +66,6 @@ npm run lint
 ```
 ## 效果展示
 
-![image](https://github.com/quinn-xie/quinn-resume/blob/master/src/assets/thumbnail/page1.jpg)
+![image](https://github.com/quinn-xie/html5-css3/blob/master/src/assets/thumbnail/page1.jpg)
 
 Copyright (c) 2018, Quinn.xie
