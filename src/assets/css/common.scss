@@ -1,0 +1,36 @@
+/*
+ * @Author: quinn.xie 
+ * @Date: 2018-11-05 14:47:16 
+ * @Last Modified by: quinn.xie
+ * @Last Modified time: 2018-11-06 15:33:06
+ */
+
+
+ *{ margin:0; padding:0;}
+ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote{padding:0; margin:0;}
+ table,td,tr,th{font-size:12px;}
+ li{list-style-type:none;}
+ table{ margin:0 auto;}
+ img{vertical-align:top;border:0;}
+ ol,ul {list-style:none;}
+ caption,th {text-align:left;}
+ a{ text-decoration: none; color: #000;}
+ a:hover{ color: #000; text-decoration: none;}
+ 
+// COLORS
+$bgColor: #000000;
+$duck_gray: #2c3e50;
+$hoverColor: #42b983;
+
+//BODY
+body{
+    font-family: 'Helvetica', 'arial', Helvetica, serif;
+    background-image: linear-gradient(#3d464b,#6b7e84);
+    background-attachment: fixed; 
+    width: 100%;
+    height: 100%;
+    color: $duck_gray;
+}
+
+
+
